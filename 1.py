@@ -1,2 +1,2 @@
-
+print("exit")
 print("hello")
